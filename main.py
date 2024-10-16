@@ -1,2 +1,2 @@
-print(f"Hello World!")
-print('oi')
+nome = str(input('Qual seu nome?\n'))
+print(f"Olá {nome}!")
